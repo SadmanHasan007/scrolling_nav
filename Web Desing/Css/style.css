@@ -1,0 +1,54 @@
+.wrapper{
+	width: 50%
+}
+
+.head{
+	border: dotted;
+	background-color: #001499; 
+}
+
+.head1{
+	color:rgb(55, 128, 121);
+	font-size:30px; 
+}
+
+.head2{
+	color: rgba(26, 30, 132, 0.7);
+	font-style: italic;
+	font-size:20pt;
+}
+
+.head3{
+	color: rgba(45,865,56,.6);
+	font-size: 3em;
+}
+.h1{
+	color: #063e99;
+	font-size: 500%;
+}
+
+.border{
+	border: 5px dotted black;
+}
+
+
+.Go{
+	color: rgb(204, 63, 63);
+}
+#size{
+
+	font-size: 40px;
+	background-color: rgb(35, 115, 168);
+}
+#take{
+	font-size: 50px;
+	background: rgb(81, 127, 201);
+}
+.Done{
+	color: #063e99;
+}
+.Symbole{
+	border: dotted;
+	font-size: 30px;
+	background-color: #001499;
+}
